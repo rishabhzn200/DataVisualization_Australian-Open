@@ -1,0 +1,509 @@
+{
+  "traits": ["player", "country"],
+  "values": [
+    {
+      "player": "Florian Mayer",
+      "country": "GER"
+    },
+    {
+      "player": "Dominik Hrbaty",
+      "country": "SVK"
+    },
+    {
+      "player": "Nathan Healey",
+      "country": "AUS"
+    },
+    {
+      "player": "Boris Pashanski",
+      "country": "SRB"
+    },
+    {
+      "player": "Janko Tipsarevic",
+      "country": "SRB"
+    },
+    {
+      "player": "Amer Delic",
+      "country": "BIH"
+    },
+    {
+      "player": "Fernando Verdasco",
+      "country": "ESP"
+    },
+    {
+      "player": "Roger Federer",
+      "country": "SUI"
+    },
+    {
+      "player": "Kristof Vliegen",
+      "country": "BEL"
+    },
+    {
+      "player": "Juan Carlos Ferrero",
+      "country": "ESP"
+    },
+    {
+      "player": "Raemon Sluiter",
+      "country": "NED"
+    },
+    {
+      "player": "Paul Goldstein",
+      "country": "USA"
+    },
+    {
+      "player": "Dick Norman",
+      "country": "BEL"
+    },
+    {
+      "player": "Luis Horna",
+      "country": "PER"
+    },
+    {
+      "player": "Tommy Haas",
+      "country": "GER"
+    },
+    {
+      "player": "Juan Monaco",
+      "country": "ARG"
+    },
+    {
+      "player": "Peter Luczak",
+      "country": "AUS"
+    },
+    {
+      "player": "Davide Sanguinetti",
+      "country": "ITA"
+    },
+    {
+      "player": "Igor Andreev",
+      "country": "RUS"
+    },
+    {
+      "player": "Lleyton Hewitt",
+      "country": "AUS"
+    },
+    {
+      "player": "Sebastien Grosjean",
+      "country": "FRA"
+    },
+    {
+      "player": "Max Mirnyi",
+      "country": "BLR"
+    },
+    {
+      "player": "Nicolas Kiefer",
+      "country": "GER"
+    },
+    {
+      "player": "Paul-Henri Mathieu",
+      "country": "FRA"
+    },
+    {
+      "player": "Federico Luzzi",
+      "country": "ITA"
+    },
+    {
+      "player": "Olivier Rochus",
+      "country": "BEL"
+    },
+    {
+      "player": "Juan Ignacio Chela",
+      "country": "ARG"
+    },
+    {
+      "player": "Bjorn Phau",
+      "country": "GER"
+    },
+    {
+      "player": "Guillermo Coria",
+      "country": "ARG"
+    },
+    {
+      "player": "Alex Jr. Bogomolov",
+      "country": "RUS"
+    },
+    {
+      "player": "Nikolay Davydenko",
+      "country": "RUS"
+    },
+    {
+      "player": "Kevin Kim",
+      "country": "USA"
+    },
+    {
+      "player": "Lars Burgsmuller",
+      "country": "GER"
+    },
+    {
+      "player": "Gaston Gaudio",
+      "country": "ARG"
+    },
+    {
+      "player": "Feliciano Lopez",
+      "country": "ESP"
+    },
+    {
+      "player": "Daniele Bracciali",
+      "country": "ITA"
+    },
+    {
+      "player": "Mario Ancic",
+      "country": "CRO"
+    },
+    {
+      "player": "David Ferrer",
+      "country": "ESP"
+    },
+    {
+      "player": "Fabrice Santoro",
+      "country": "FRA"
+    },
+    {
+      "player": "Jean-Christophe Faurel",
+      "country": "FRA"
+    },
+    {
+      "player": "Robby Ginepri",
+      "country": "USA"
+    },
+    {
+      "player": "Jan Hernych",
+      "country": "CZE"
+    },
+    {
+      "player": "Radek Stepanek",
+      "country": "CZE"
+    },
+    {
+      "player": "Wesley Moodie",
+      "country": "RSA"
+    },
+    {
+      "player": "Thomas Johansson",
+      "country": "SWE"
+    },
+    {
+      "player": "Guillermo Garcia-Lopez",
+      "country": "ESP"
+    },
+    {
+      "player": "Tommy Robredo",
+      "country": "ESP"
+    },
+    {
+      "player": "David Nalbandian",
+      "country": "ARG"
+    },
+    {
+      "player": "Tomas Berdych",
+      "country": "CZE"
+    },
+    {
+      "player": "Dmitry Tursunov",
+      "country": "RUS"
+    },
+    {
+      "player": "Jimmy Wang",
+      "country": "TPE"
+    },
+    {
+      "player": "James Blake",
+      "country": "USA"
+    },
+    {
+      "player": "Julien Benneteau",
+      "country": "FRA"
+    },
+    {
+      "player": "Philipp Kohlschreiber",
+      "country": "GER"
+    },
+    {
+      "player": "Stanislas Wawrinka",
+      "country": "SUI"
+    },
+    {
+      "player": "Jarkko Nieminen",
+      "country": "FIN"
+    },
+    {
+      "player": "Denis Gremelmayr",
+      "country": "GER"
+    },
+    {
+      "player": "Ivan Ljubicic",
+      "country": "CRO"
+    },
+    {
+      "player": "Andrei Pavel",
+      "country": "ROU"
+    },
+    {
+      "player": "Xavier Malisse",
+      "country": "BEL"
+    },
+    {
+      "player": "Andy Roddick",
+      "country": "USA"
+    },
+    {
+      "player": "Marcos Baghdatis",
+      "country": "CYP"
+    },
+    {
+      "player": "Gilles Simon",
+      "country": "FRA"
+    },
+    {
+      "player": "Hyung-Taik Lee",
+      "country": "KOR"
+    },
+    {
+      "player": "Oliver Marach",
+      "country": "AUT"
+    },
+    {
+      "player": "Filippo Volandri",
+      "country": "ITA"
+    },
+    {
+      "player": "Wayne Arthurs",
+      "country": "AUS"
+    },
+    {
+      "player": "Andreas Seppi",
+      "country": "ITA"
+    },
+    {
+      "player": "Potito Starace",
+      "country": "ITA"
+    },
+    {
+      "player": "Kenneth Carlsen",
+      "country": "DEN"
+    },
+    {
+      "player": "Denis Istomin",
+      "country": "UZB"
+    },
+    {
+      "player": "Christophe Rochus",
+      "country": "BEL"
+    },
+    {
+      "player": "Tomas Zib",
+      "country": "CZE"
+    },
+    {
+      "player": "Pavel Snobel",
+      "country": "CZE"
+    },
+    {
+      "player": "Novak Djokovic",
+      "country": "SRB"
+    },
+    {
+      "player": "Zack Fleishman",
+      "country": "USA"
+    },
+    {
+      "player": "Gael Monfils",
+      "country": "FRA"
+    },
+    {
+      "player": "Richard Gasquet",
+      "country": "FRA"
+    },
+    {
+      "player": "Jean-Rene Lisnard",
+      "country": "MON"
+    },
+    {
+      "player": "Ivo Minar",
+      "country": "CZE"
+    },
+    {
+      "player": "Jacob Adaktusson",
+      "country": "SWE"
+    },
+    {
+      "player": "Nicolas Almagro",
+      "country": "ESP"
+    },
+    {
+      "player": "Robin Vik",
+      "country": "CZE"
+    },
+    {
+      "player": "Mark Philippoussis",
+      "country": "AUS"
+    },
+    {
+      "player": "Thierry Ascione",
+      "country": "FRA"
+    },
+    {
+      "player": "Paradorn Srichaphan",
+      "country": "THA"
+    },
+    {
+      "player": "Arnaud Clement",
+      "country": "FRA"
+    },
+    {
+      "player": "Juan-Antonio Marin",
+      "country": "CRC"
+    },
+    {
+      "player": "Michael Llodra",
+      "country": "FRA"
+    },
+    {
+      "player": "Andy Murray",
+      "country": "GBR"
+    },
+    {
+      "player": "Carlos Berlocq",
+      "country": "ARG"
+    },
+    {
+      "player": "Victor Hanescu",
+      "country": "ROU"
+    },
+    {
+      "player": "Fernando Gonzalez",
+      "country": "CHI"
+    },
+    {
+      "player": "Ivo Karlovic",
+      "country": "CRO"
+    },
+    {
+      "player": "Harel Levy",
+      "country": "ISR"
+    },
+    {
+      "player": "Rainer Schuettler",
+      "country": "GER"
+    },
+    {
+      "player": "Razvan Sabau",
+      "country": "ROU"
+    },
+    {
+      "player": "Tomas Behrend",
+      "country": "GER"
+    },
+    {
+      "player": "Yen-Hsun Lu",
+      "country": "TPE"
+    },
+    {
+      "player": "Agustin Calleri",
+      "country": "ARG"
+    },
+    {
+      "player": "Florent Serra",
+      "country": "FRA"
+    },
+    {
+      "player": "Vince Spadea",
+      "country": "USA"
+    },
+    {
+      "player": "Alexander Waske",
+      "country": "GER"
+    },
+    {
+      "player": "Jurgen Melzer",
+      "country": "AUT"
+    },
+    {
+      "player": "Fernando Vicente",
+      "country": "ESP"
+    },
+    {
+      "player": "Bjorn Rehnquist",
+      "country": "SWE"
+    },
+    {
+      "player": "Oscar Hernandez",
+      "country": "ESP"
+    },
+    {
+      "player": "Cyril Saulnier",
+      "country": "FRA"
+    },
+    {
+      "player": "Taylor Dent",
+      "country": "USA"
+    },
+    {
+      "player": "Jiri Vanek",
+      "country": "CZE"
+    },
+    {
+      "player": "Danai Udomchoke",
+      "country": "THA"
+    },
+    {
+      "player": "Bobby Reynolds",
+      "country": "USA"
+    },
+    {
+      "player": "Tim Henman",
+      "country": "GBR"
+    },
+    {
+      "player": "Mariano Zabaleta",
+      "country": "ARG"
+    },
+    {
+      "player": "Jose Acasuso",
+      "country": "ARG"
+    },
+    {
+      "player": "Marcos Daniel",
+      "country": "BRA"
+    },
+    {
+      "player": "Lukas Dlouhy",
+      "country": "CZE"
+    },
+    {
+      "player": "Albert Montanes",
+      "country": "ESP"
+    },
+    {
+      "player": "Marc Kimmich",
+      "country": "AUS"
+    },
+    {
+      "player": "Jonas Bjorkman",
+      "country": "SWE"
+    },
+    {
+      "player": "Chris Guccione",
+      "country": "AUS"
+    },
+    {
+      "player": "Carlos Moya",
+      "country": "ESP"
+    },
+    {
+      "player": "Mikhail Youzhny",
+      "country": "RUS"
+    },
+    {
+      "player": "Michael Lammer",
+      "country": "SUI"
+    },
+    {
+      "player": "Justin Gimelstob",
+      "country": "USA"
+    },
+    {
+      "player": "Nicolas Massu",
+      "country": "CHI"
+    }
+  ]
+}

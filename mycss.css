@@ -1,0 +1,99 @@
+#topbardiv
+{
+    height: 5vh;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 10px;
+    border: none;
+    padding: 0;
+    color: #79cd50;
+    background-color: #fbfbff;
+    transition: all;
+    text-align:center;
+    font-family: "Times New Roman";
+    font-size: larger;
+    font-style: oblique;
+
+}
+
+#chart
+{
+    width: 65%;
+    height:95vh;
+    margin: 0;
+    border: 0 none;
+    padding: 0;
+    color: #41bbcd;
+    background-color: white;
+    transition: all;
+    float:left;
+
+
+}
+
+
+#rightdiv
+{
+    width: 35%;
+    height:95vh;
+    margin: 0;
+    border: 0 none;
+    padding: 0;
+    color: #432bcd;
+    background-color: #fffecc;
+    transition: all;
+    float:right;
+}
+
+
+#svgplayer
+{
+    width: 100%;
+    height:90vh;
+}
+
+
+
+
+.group:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+circle {
+    fill: #36bbc1;
+    cursor: pointer;
+}
+
+/*path {
+    fill: #444;
+    stroke: #444;
+}*/
+
+path.edge {
+    fill: none;
+    stroke: #444;
+    stroke-width: 4px;
+}
+
+line {
+    stroke: #444;
+    stroke-width: 4px;
+}
+
+g.player text.name {
+    font-size: 8px;
+    text-anchor: middle;
+    font-weight: 300;
+    fill: white;
+    cursor: pointer;
+}
+
+
+
+.about:hover {
+    color: dodgerblue;
+}
